@@ -1,6 +1,6 @@
 import 'animate.css';
 
-export const ProductCard = ({name, price,  img, description}) => {
+export default function  ProductCard({name, price,  img, description}) {
 
     
     return(

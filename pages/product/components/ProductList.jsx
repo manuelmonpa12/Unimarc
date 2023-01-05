@@ -1,8 +1,8 @@
-import { ProductCard } from "./ProductCard";
+import  ProductCard  from "./ProductCard";
 
-export const ProductList = ({ products }) => {
+export default function  ProductList({ products }) {
 
-  const newProducts = []
+  let newProducts = []
 
   if (!products) return (newProducts = []);
 
