@@ -257,3 +257,23 @@ a {
   font-weight: 500;
   font-size: 12PX;
  }
+
+ .banner-result{
+  margin-top: 10px;
+  width: 100%;
+  background-color: #e1211b;
+  height: 50px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+ }
+ 
+
+ .banner-result:hover{
+  background-color: #8f1612;
+  cursor: pointer;
+  color: white;
+  font-weight: 400;
+}

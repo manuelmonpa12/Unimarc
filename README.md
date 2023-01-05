@@ -4,7 +4,7 @@
 ![alt text](https://github.com/manuelmonpa12/unimarc/blob/main/demo.png)
 
 ### Frontend project by Manuel Montero for Amaris
-See [demo](https://sodexo-suite.vercel.app/#/)
+See [demo](https://unimarc-tbgf.vercel.app/)
 
 
 Para levantar el servidor de desarrollo:
