@@ -1,7 +1,7 @@
 # UniMarc | Amaris
 
 
-![alt text](https://github.com/manuelmonpa12/Sodexo-Suite/blob/main/src/assets/image.png)
+![alt text](https://github.com/manuelmonpa12/unimarc/blob/main/demo.png)
 
 ### Frontend project by Manuel Montero for Amaris
 See [demo](https://sodexo-suite.vercel.app/#/)
