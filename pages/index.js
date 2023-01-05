@@ -1,5 +1,6 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -100,9 +101,11 @@ export default function Home() {
               con flexbox y se vean ordenados horizontalmente
             </li>
           </ul>
-          <a href="/product" className="banner-result">
-            <span>Resultado</span>
-          </a>
+          <Link href="/product">
+            <a  className="banner-result">
+              <span>Resultado</span>
+            </a>
+          </Link>
         </div>
       </main>
     </div>
